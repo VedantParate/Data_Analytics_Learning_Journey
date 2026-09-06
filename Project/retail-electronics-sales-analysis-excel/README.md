@@ -1,6 +1,6 @@
-Retail Electronics Sales Analysis -- Excel Dashboard
+**Retail Electronics Sales Analysis -- Excel Dashboard**
 
-📊 Project Overview
+**📊 Project Overview**
 
 This project analyzes retail electronics sales data using Microsoft
 Excel.
@@ -9,7 +9,7 @@ The objective is to validate and clean the dataset, perform sales and
 profitability analysis, and build an interactive dashboard for business
 insights.
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 Perform data quality and validation checks
 
@@ -27,7 +27,7 @@ Slicers, and Timeline
 
 Create dynamic KPIs that respond to dashboard filters
 
-🗂️ Workbook Structure
+**🗂️ Workbook Structure**
 
 Sheet                  Purpose
 
@@ -37,7 +37,7 @@ Sheet                  Purpose
 04_Dashboard         Interactive sales dashboard
 05_KPI_Pivot         PivotTable supporting dynamic KPI calculations
 
-🧹 Data Quality & Cleaning
+**🧹 Data Quality & Cleaning**
 
 The project includes validation for:
 
@@ -60,7 +60,7 @@ Order-status validation
 Invalid or missing values were handled in the cleaned data layer,
 while the original raw data was preserved.
 
-📈 Key KPIs
+**📈 Key KPIs**
 
 Total Net Sales: 1,168,570,958.85
 
@@ -74,7 +74,7 @@ Total Quantity Sold: 21,951
 
 Average Profit Margin: 21.06%
 
-📊 Dashboard Analysis
+**📊 Dashboard Analysis**
 
 The interactive dashboard contains:
 
@@ -94,7 +94,7 @@ Net Sales by Order Status
 
 Net Sales by Customer Type
 
-🎛️ Interactive Features
+**🎛️ Interactive Features**
 
 The dashboard uses:
 
@@ -109,7 +109,7 @@ Connected PivotTables and PivotCharts
 
 Selecting a slicer automatically updates the relevant KPIs and charts.
 
-🛠️ Tools & Excel Features Used
+**🛠️ Tools & Excel Features Used**
 
 Microsoft Excel
 
@@ -133,7 +133,7 @@ Conditional formatting
 
 Data cleaning and validation techniques
 
-💡 Key Learning Outcomes
+**💡 Key Learning Outcomes**
 
 This project demonstrates a complete Excel analytics workflow:
 
@@ -143,8 +143,8 @@ Visualization → Interactive Dashboard
 The focus was not only on creating charts, but also on maintaining data
 quality and building an interactive, decision-oriented dashboard.
 
-👤 Author
+**👤 Author**
 
-Vedant Parate
+**Vedant Parate**
 
 Aspiring Data Analyst | Excel | SQL | Data Visualization
