@@ -1,5 +1,9 @@
 # AI Writing Detection Analysis
 
+## 📊 Dashboard Preview
+
+![AI Writing Detection Dashboard](Dashboard.png)
+
 ## 📌 Project Overview
 
 This project analyzes academic writing data to identify patterns and differences between AI-assisted and non-AI-assisted submissions using Microsoft Excel.
